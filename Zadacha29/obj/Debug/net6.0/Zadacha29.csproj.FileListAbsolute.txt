@@ -1,0 +1,16 @@
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\bin\Debug\net6.0\Zadacha29.exe
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\bin\Debug\net6.0\Zadacha29.deps.json
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\bin\Debug\net6.0\Zadacha29.runtimeconfig.json
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\bin\Debug\net6.0\Zadacha29.dll
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\bin\Debug\net6.0\ref\Zadacha29.dll
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\bin\Debug\net6.0\Zadacha29.pdb
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.GlobalUsings.g.cs
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.csproj.AssemblyReference.cache
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.AssemblyInfoInputs.cache
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.AssemblyInfo.cs
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.csproj.CoreCompileInputs.cache
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.dll
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\ref\Zadacha29.dll
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.pdb
+C:\Users\Norelax\Desktop\Seminar4\Zadacha29\obj\Debug\net6.0\Zadacha29.genruntimeconfig.cache
